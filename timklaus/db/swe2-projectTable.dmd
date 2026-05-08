@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="swe2-projectTable" id="025FE777-DFF7-56CE-D520-76ABEA966F94" version="3.5">
+<createdBy>timds</createdBy>
+<createdTime>2026-05-08 11:21:29 UTC</createdTime>
+<ownerDesignName>swe2-projectTable</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>025FE777-DFF7-56CE-D520-76ABEA966F94</designId>
+</OSDM_Design>
