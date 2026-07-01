@@ -1,0 +1,25 @@
+hooks, bei commit google-java-formatter rüber laufen lassen.
+Falls google-java-formatter nicht angewand wurde, wird der commit abgewiesen.
+Im git repo mit google-java-formatter prüfen, ob der code korrekt formatiert ist,
+via exit code zurückgeben, ob formattierung zulässig ist.
+pre-recieve reagier auf ein push.(hängt sich vor abschluss des pushes ein)
+
+Teamscale
+Jacoco
+Unitlest
+Junit
+
+DataModeler
+Eclipse
+Intellij
+VsCodium
+Markdown-Dokumente
+Enterprise-Architect
+OpenProject
+Gitlab
+Git - hooks - Github
+LNSCAPE
+neovim,emacs,posix,ssh,curl,bash
+(B)(A)TDD
+Parserbau
+checkstyle, google-java-formatter //sollen in git pipeline sein
